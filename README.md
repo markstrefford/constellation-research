@@ -109,6 +109,8 @@ Multi-step reasoning, agent-to-agent observation, optional communication channel
 - What is the optimal balance of AI and human control for system stability?
 - How do these dynamics translate to real-world supply chains, financial markets, and operating models?
 
+Full research backlog: [RESEARCH_BACKLOG.md](RESEARCH_BACKLOG.md)
+
 ---
 
 ## References
