@@ -26,7 +26,7 @@ These are preliminary findings from a small number of configurations. The patter
 
 📁 Full results: [`/research/v1a-llm-pricing/`](research/v1a-llm-pricing/)
 
-### Local Model Benchmarks
+### Local Model Benchmarks (February 2026)
 
 Benchmarked local LLMs for real-time hub pricing on Apple Silicon (M2, 16GB). qwen2.5:14b was the clear winner at 2.5s median latency — 18x faster than qwen3:8b, with more decisive pricing behaviour. Thinking-mode models (qwen3) added massive overhead with no quality improvement on structured JSON tasks.
 
