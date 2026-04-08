@@ -93,6 +93,8 @@ Core logistics and emergent economics. 20 agents trading across a 15-node networ
 ### v1a — LLM Decision-Making ✅
 Introduced a pluggable LLM layer for pricing strategy at the node level. Agents remained heuristic-driven, responding to price signals set by a mix of LLM and rule-based nodes. Ran initial experiments varying the ratio of AI to heuristic control across the same environment to explore how different levels of autonomy affect system-wide outcomes. Early results were counterintuitive enough to warrant deeper investigation across broader configurations.
 
+📁 Local model benchmarks: [`/research/v2-local-models/`](research/v2-local-models/LOCAL_MODEL_BENCHMARKS.md)
+
 ### v1b — Experiential Memory 🔄 In progress
 Agent memory of past trades, price observations, and outcomes. Research question: how does learning from experience change emergent system dynamics?
 
